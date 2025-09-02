@@ -1,2 +1,1 @@
-# Task 1
-(yaha tum apna project ka description likhna)
+CODSOFT Task 1 - ToDo List Application
