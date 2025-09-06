@@ -1,3 +1,1 @@
-# Task 2
-
-
+CODSOFT Task 2 - Calculator
